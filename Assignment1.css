@@ -24,3 +24,51 @@ table,td,th{
 .myDiv{
     color:teal;
 }
+
+button{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+}
+
+form,fieldset,legend{
+    border-color: black;
+    border-radius: 15px;
+    border-width: 15px;
+}
+
+#Submit{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+    font-weight: bold; 
+}
+
+#Reset{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+    font-weight: bold; 
+}
+
+/* <h1 style="color: black; text-align: left; font-size: 35px; font-weight: bolder;">
+    50) Tag
+</h1>
+<h2 style="font-size: 30px; color: maroon">
+    Definition
+</h2>
+<h2 style="color: crimson; font-size: 25px; font-weight: bold;">
+    
+</h2>
+<h2 style="font-size: 30px; color: maroon">
+    Example:
+</h2>
+<h2 style="color: crimson; font-size: 25px; font-weight: bold;">
+    
+</h2>
+<hr>
+<!-------------------------------------------------------------------------------------------------------------- --> */
