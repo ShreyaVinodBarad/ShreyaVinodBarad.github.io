@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&display=swap');
+body{
+    padding:10px;
+}
 h1,h2{
     font-family: 'Merriweather', serif;
 }
@@ -55,20 +58,3 @@ form,fieldset,legend{
     font-weight: bold; 
 }
 
-/* <h1 style="color: black; text-align: left; font-size: 35px; font-weight: bolder;">
-    50) Tag
-</h1>
-<h2 style="font-size: 30px; color: maroon">
-    Definition
-</h2>
-<h2 style="color: crimson; font-size: 25px; font-weight: bold;">
-    
-</h2>
-<h2 style="font-size: 30px; color: maroon">
-    Example:
-</h2>
-<h2 style="color: crimson; font-size: 25px; font-weight: bold;">
-    
-</h2>
-<hr>
-<!-------------------------------------------------------------------------------------------------------------- --> */
